@@ -1,0 +1,8 @@
+{
+    "server_ip": "127.0.0.1",
+    "server_port": 8087,
+    "input_file": "testcase.txt",
+    "num_clients": 29,
+    "p": 10,
+    "k": 5
+}

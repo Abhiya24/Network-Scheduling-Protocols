@@ -1,0 +1,8 @@
+p = 10, num_clients = 1, average_completion_time = 0.0010709 seconds
+p = 10, num_clients = 5, average_completion_time = 0.000953421 seconds
+p = 10, num_clients = 9, average_completion_time = 0.000997622 seconds
+p = 10, num_clients = 13, average_completion_time = 0.00246625 seconds
+p = 10, num_clients = 17, average_completion_time = 0.00174548 seconds
+p = 10, num_clients = 21, average_completion_time = 0.000784867 seconds
+p = 10, num_clients = 25, average_completion_time = 0.00140915 seconds
+p = 10, num_clients = 29, average_completion_time = 0.0021071 seconds
