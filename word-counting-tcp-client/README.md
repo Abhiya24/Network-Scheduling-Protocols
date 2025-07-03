@@ -35,7 +35,7 @@ Study how changing `p` (number of words per packet) affects **average completion
 - Values of `p`: 1 through 10
 - Each configuration is run for 10 iterations to average results
 
-📈 Plot below shows that increasing `p` reduces the number of packets, improving throughput and lowering completion time.
+ Plot below shows that increasing `p` reduces the number of packets, improving throughput and lowering completion time.
 
 ![Completion Time vs Words Per Packet](./plot.png)
 
